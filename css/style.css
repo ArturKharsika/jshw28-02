@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    padding-top: 100px;
+}
+
+.menu-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-item {
+    padding: 10px 20px;
+    border: 2px solid silver;
+}
